@@ -14,13 +14,12 @@
 
 **CryptAnalyzer AI** automatically identifies the type of classical cipher used on an encrypted text, launches the appropriate cryptanalysis attack, and returns the decrypted plaintext along with a security score — all through a clean web interface.
 
-Built as part of **AI EXPO 2026** — Student Creativity and Innovation, Blida 1 University.
 
 ---
 
 ## Features
 
-- 🤖 **AI-based cipher classification** — Automatically detects Classic ciphers using a trained ML model
+- 🤖 **AI-based cipher classification** — Automatically detects classical cipher using a trained ML model
 - ⚔️ **Automated attacks** — Brute-force and frequency analysis attacks per cipher type
 - 📊 **Security scoring** — Evaluates the strength of the detected cipher
 - 🌐 **Web interface** — Simple, responsive UI built with Flask
@@ -83,7 +82,7 @@ Then open `http://localhost:5000` in your browser.
 - **Backend** — Python, Flask
 - **Machine Learning** — scikit-learn, NumPy
 - **Frontend** — HTML, CSS, JavaScript
-- **Cryptography** — Custom implementations of Classics ciphers
+- **Cryptography** — Custom implementations of classical cipher
 
 ---
 
